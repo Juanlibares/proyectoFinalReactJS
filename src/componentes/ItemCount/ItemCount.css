@@ -1,0 +1,29 @@
+.item-count {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 3rem;
+    align-content: center;
+    justify-content: center;
+  }
+  
+  .item-count button {
+    padding: 5px 10px;
+    background-color: #00d4ff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .agregar-al-carrito {
+    background-color: #00d4ff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+  }
+  
+  .agregar-al-carrito:hover {
+    background-color: #00d4ff;
+  }
